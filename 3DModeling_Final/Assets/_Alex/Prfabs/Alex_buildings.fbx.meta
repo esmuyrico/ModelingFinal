@@ -3,7 +3,37 @@ guid: 292aec60350fa474ab9673f98532e550
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UVMat_1
+    second: {fileID: 2100000, guid: 3e5761729e718464daf6e32e6e562406, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UVMat_2
+    second: {fileID: 2100000, guid: 24d45059c173993489481a658877f77b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UVMat_3
+    second: {fileID: 2100000, guid: bc975a2d87c392a49a09f83c1ab7729c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UVMat_4
+    second: {fileID: 2100000, guid: 58d8772394d08914b9e34080ff459b7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UVMat_5
+    second: {fileID: 2100000, guid: 66a197cdb60fdfd4f990c27798cf9a51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UVMat_6
+    second: {fileID: 2100000, guid: 97592384b4d66474aa0785fdef8c9489, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -67,7 +97,7 @@ ModelImporter:
     secondaryUVMinLightmapResolution: 40
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
     strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
